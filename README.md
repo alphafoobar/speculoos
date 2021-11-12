@@ -17,7 +17,7 @@ Influenced by Google Truth and other fluent assertion frameworks.
 Add this to your `Cargo.toml`:
 
 ```toml
-[dependencies]
+[dev-dependencies]
 speculoos = "0.6.0"
 ```
 
