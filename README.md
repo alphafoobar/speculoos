@@ -18,7 +18,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dev-dependencies]
-speculoos = "0.6.0"
+speculoos = "0.8.0"
 ```
 
 Then add this to your crate:
